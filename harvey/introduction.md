@@ -9,7 +9,7 @@ i am batman
 * nuggets
   * nuggets
 
-![text label](./imgs/level3.jpg)
+![level3](./imgs/level3.jpg)
 
 
 
